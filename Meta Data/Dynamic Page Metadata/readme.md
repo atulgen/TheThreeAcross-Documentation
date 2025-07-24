@@ -10,7 +10,7 @@
     - In 3 sections
         - Services
         - Careers
-        - Blogs
+        - [Blogs](./Blogs/readme.md)
 
 ---
 
